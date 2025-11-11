@@ -1,6 +1,6 @@
-# Duck Retail Analytics Platform
+# Duck Retail Analytics POC Challenge
 
-A retail analytics solution transforming POS data into actionable insights for Bidco Africa Limited.
+A retail analytics transforming POS data into actionable insights for Bidco Africa Limited (POC challenge)
 
 ## Overview
 
@@ -186,3 +186,4 @@ Validates:
 
 **Built for Duck by:** Moses Njau
 **Date:** November 2025
+**Reviewer**: mailto:michelle@getduck.co
